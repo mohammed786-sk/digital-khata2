@@ -1,0 +1,36 @@
+server/node_modules
+server/package-lock.json
+server-example/node_modules
+server2/node_modules
+server2/package-lock.json
+server2/src/.env
+server/src/.env
+client/node_modules
+client/eslint.config.js
+client/vite.config.js
+client/public
+client/package-lock.json
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
